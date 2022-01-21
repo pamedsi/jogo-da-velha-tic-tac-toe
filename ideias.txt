@@ -1,0 +1,3 @@
+- Oferecer ao usuário para que digite os nomes dos jogadores
+- Perguntar quantas rodadas querem jogar
+- Perguntar se quer continuar jogando ao final de cada partida

@@ -25,4 +25,25 @@ function isGameOverVertically(grid) {
     return false
   }
 }
+function isGameOverDiagonally(grid) {
+  if (grid[0][0] === grid[1][1] && grid[1][1] === grid[2][2]) {
+    return true
+  } else if (grid[0][2] === grid[1][1] && grid[1][1] === grid[2][0]) {
+    return true
+  } else {
+    return false
+  }
+}
+function isGameOver(grid) {
+  if (
+    isGameOverDiagonally(grid) ||
+    isGameOverHorizontally(grid) ||
+    isGameOverVertically(grid)
+  ) {
+    return true
+  } else {
+    return false
+  }
+}
+
 console.log(isGameOver(array))
