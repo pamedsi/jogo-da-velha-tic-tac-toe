@@ -1,3 +1,6 @@
 - Oferecer ao usuário para que digite os nomes dos jogadores
 - Perguntar quantas rodadas querem jogar
 - Perguntar se quer continuar jogando ao final de cada partida
+- Criar inteliência artificial para jogar contra a máquina
+- Criar animações para colocar a bola e o X
+- Criar tela animada de vitória para um dos jogadores
