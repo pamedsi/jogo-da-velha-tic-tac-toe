@@ -1,7 +1,7 @@
 let array = [
-  ['a', 'a', 'a'],
-  [10, 11, 12],
-  [20, 21, 22]
+  ['a', 'a', 's'],
+  [10, 's', 12],
+  ['s', 21, 22]
 ]
 function isGameOverHorizontally(grid) {
   if (grid[0][0] === grid[0][1] && grid[0][1] === grid[0][2]) {
