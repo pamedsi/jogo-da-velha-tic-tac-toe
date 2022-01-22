@@ -1,3 +1,17 @@
+* {
+    background-color: grey;
+}
+
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
 .container {
     padding: 15px;
     display: grid;
@@ -7,6 +21,7 @@
     width: 40rem;
     font-size: 5rem;
     font-family: sans-serif;
+    
 }
 
 .container div {
