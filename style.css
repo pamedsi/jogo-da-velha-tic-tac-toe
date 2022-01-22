@@ -2,12 +2,16 @@
     background-color: grey;
 }
 
+footer {
+    margin: 10rem;
+}
 
 body {
     display: flex;
     align-items: center;
-    justify-content: center;
     flex-direction: column;
+    justify-content: space-between;
+    
 }
 
 
@@ -156,4 +160,5 @@ body {
 #diva9 {
     border: none;
     background-color: red;
+    justify-content: ;
 }
