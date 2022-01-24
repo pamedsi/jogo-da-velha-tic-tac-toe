@@ -1,0 +1,3 @@
+- Testar modularização com javascript na DOM
+- Criar um objeto para identificar a vez
+- Salvar a vez num objeto declarado no script.js ou no localstorage

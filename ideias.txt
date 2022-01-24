@@ -14,4 +14,6 @@ Futuras:
 02 - Quantas pessoas vão jogar
 03 - Quantas rodadas você deseja?
 
-Todo
+To-do:
+
+- Criar hoover, efeito para quando passar o mouse em cima do bloco

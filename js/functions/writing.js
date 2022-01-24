@@ -1,8 +1,3 @@
-
-function writing (turn) {
-  switch (turn) {
-    case 'x':
-    
-
-  }
+export function writingX (block) {
+  block.innerHTML = 'X'
 }
