@@ -9,6 +9,8 @@ Futuras:
 
 - Colocar no ar para ser jogado online
 - Criar inteliência artificial para jogar contra a máquina
+- Nivelar a dificuldade do jogo em fácil, médio e difícil.
+- Usar personagens virtuais que a suas aparencias correspondam ao estereótipo de cada dificuldade 
 
 01 - Tela start
 02 - Quantas pessoas vão jogar
